@@ -22,7 +22,7 @@ export default defineConfig({
 					label: '3D Printing',
 					items: [
 						// 	// Each item here is one entry in the navigation menu.
-							{ label: 'Cura Setup', link: '/3d-printing/cura-sCase Frameworketup/' },
+							{ label: 'Cura Setup', link: '/3d-printing/cura-setup/' },
 							{ label: 'Microcontroller Case (Optional)', link: '/3d-printing/microcontroller-case/'},
 							{ label: 'Pivot Arm', link: '/3d-printing/pivot-arm/'},
 							{ label: 'Stepper Motor Adapter', link: '/3d-printing/stepper-adapter/'},

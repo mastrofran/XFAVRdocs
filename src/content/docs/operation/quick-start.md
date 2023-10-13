@@ -38,7 +38,7 @@ description: Get the XFAVR device up and running quickly
 ![XFAVR screen statistics](/assets/operation/quick-start/IMG_1268.HEIC.png)
 
 ## Restarting the XFAVR Device
-- If you need to restart the XFAVR device for any reason, including to continue running the column after a the previous option has fully completed, you can press the reset button.
+- If you need to restart the XFAVR device for any reason, including to continue to run the chromatography after the previous operation has fully completed, you can press the reset button.
 - Pressing the reset button will restart the XFAVR device and allow you to retype the XFAVR settings in when the screen reads "Awaiting Input..."
 
 ## Shutdown
